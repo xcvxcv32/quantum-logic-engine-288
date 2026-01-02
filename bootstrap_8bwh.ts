@@ -1,0 +1,1 @@
+const service_8bwh = <T>(args: T): T => { return args; };
